@@ -1,0 +1,11 @@
+office31/
+logs/
+events.*
+disentangle_nogen/
+<<<<<<< HEAD
+*.pth.tar
+*.png
+*.jpg
+=======
+*.pth.tar
+>>>>>>> f0906cafd587b9f863e29ed0904c7c6f81d0db32
